@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Gazmend Sabani 👋
 
-<!--
-**mendigv/mendigv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT student passionate about Cybersecurity, Networking and Linux.
 
-Here are some ideas to get you started:
+## Certifications
+- Cisco Introduction to Cybersecurity
+- Cisco Networking Basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Linux
+- Networking
+- Ethical Hacking
+
+## Goals
+- Become a Cybersecurity Specialist
+- Learn Penetration Testing
+- Improve Networking Skills
